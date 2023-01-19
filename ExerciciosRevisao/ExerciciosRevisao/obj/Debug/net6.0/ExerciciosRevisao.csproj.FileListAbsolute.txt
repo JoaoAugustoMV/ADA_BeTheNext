@@ -1,0 +1,15 @@
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\net6.0\ExerciciosRevisao.exe
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\net6.0\ExerciciosRevisao.deps.json
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\net6.0\ExerciciosRevisao.runtimeconfig.json
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\net6.0\ExerciciosRevisao.dll
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\bin\Debug\net6.0\ExerciciosRevisao.pdb
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\ExerciciosRevisao.csproj.AssemblyReference.cache
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\ExerciciosRevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\ExerciciosRevisao.AssemblyInfoInputs.cache
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\ExerciciosRevisao.AssemblyInfo.cs
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\ExerciciosRevisao.csproj.CoreCompileInputs.cache
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\ExerciciosRevisao.dll
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\refint\ExerciciosRevisao.dll
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\ExerciciosRevisao.pdb
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\ExerciciosRevisao.genruntimeconfig.cache
+C:\ADA\POO_2\ExerciciosRevisao\ExerciciosRevisao\obj\Debug\net6.0\ref\ExerciciosRevisao.dll
