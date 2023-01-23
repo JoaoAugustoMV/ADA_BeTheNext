@@ -1,0 +1,15 @@
+C:\ADA\POO_2\ExercicioGenerics\bin\Debug\net6.0\ExercicioGenerics.exe
+C:\ADA\POO_2\ExercicioGenerics\bin\Debug\net6.0\ExercicioGenerics.deps.json
+C:\ADA\POO_2\ExercicioGenerics\bin\Debug\net6.0\ExercicioGenerics.runtimeconfig.json
+C:\ADA\POO_2\ExercicioGenerics\bin\Debug\net6.0\ExercicioGenerics.dll
+C:\ADA\POO_2\ExercicioGenerics\bin\Debug\net6.0\ExercicioGenerics.pdb
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\ExercicioGenerics.csproj.AssemblyReference.cache
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\ExercicioGenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\ExercicioGenerics.AssemblyInfoInputs.cache
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\ExercicioGenerics.AssemblyInfo.cs
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\ExercicioGenerics.csproj.CoreCompileInputs.cache
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\ExercicioGenerics.dll
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\refint\ExercicioGenerics.dll
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\ExercicioGenerics.pdb
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\ExercicioGenerics.genruntimeconfig.cache
+C:\ADA\POO_2\ExercicioGenerics\obj\Debug\net6.0\ref\ExercicioGenerics.dll
